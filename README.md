@@ -20,18 +20,25 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa24wcXgzdTFqaWY0YjdkOWRwb292c2Q5c2p6NTNzNGRhcWwyMXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ck5A02sAgNOT066qiK/giphy.gif" height="25"/> **Graphic Designer & Illustrator**  
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRkN2VkZHA1NXhsdmtzcHlyd3Ywb2M3cDMzdGZwMWg5cGF3enF3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" height="25"/> **AI | ML | DL | Generative AI Developer**  
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJnZ3k1amZnbG9pcm03bmlxYnB0eDBtcXo1NW52Y2lvdmcyZzNjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUPYQchGyooEo3LwGA/giphy.gif" height="25"/> **Founder @ R3ACTR INNOVATIONS**  
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hqc3g3cnpqYnU1OWJldzZobG5zcm4zYXBiZW5yZncwdzMyOXB6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.gif" height="25"/> Building products that solve real-world problems  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hqc3g3cnpqYnU1OWJldzZobG5zcm4zYXBiZW5yZncwdzMyOXB6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.gif" height="25"/> **Building products that solve real-world problems**
 
 
 > *I believe design + AI + purpose can change the world.*
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
+</p>
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
+<br><br>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
+</p>
 
-![perfectloop-ezgif com-crop](https://github.com/user-attachments/assets/bddd4295-8921-4da7-ab0b-35bf4b578720)
-
----
-
-## 🌐 Connect With Me
+ Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-r-a2b970286">
@@ -45,8 +52,12 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=footer"/>
 </p>
+
