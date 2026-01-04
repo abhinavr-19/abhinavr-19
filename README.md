@@ -38,7 +38,8 @@
 <br><br>
 </p>
 
- Connect With Me
+ ## <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Connect with Me <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-r-a2b970286">
